@@ -1,5 +1,16 @@
 """
-Tool externe : API Football (api-football.com)
+========================================================
+Football Scout Agent — Tools Externes
+========================================================
+Rôle      : Outils d'accès aux données football
+            en temps réel via API-Football v3.
+Tools     :
+    - get_live_matches      : matchs en direct
+    - get_league_standings  : classement d'une ligue
+    - get_recent_matches    : derniers matchs d'équipe
+Gestion   : Erreurs API gérées gracieusement via
+            _safe_response_list() — ne plante jamais.
+========================================================
 """
 
 import os
