@@ -1,5 +1,15 @@
 """
-Tool interne : base de données de joueurs de football.
+========================================================
+Football Scout Agent — Tools Internes
+========================================================
+Rôle      : Outils de recherche et d'analyse sur la
+            base de données locale de joueurs (JSON).
+Tools     :
+    - search_player   : recherche par nom
+    - filter_players  : filtre multi-critères
+    - compare_players : comparaison de deux joueurs
+    - top_players     : classement par catégorie
+========================================================
 """
 
 import json
