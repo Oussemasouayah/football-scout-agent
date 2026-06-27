@@ -1,6 +1,17 @@
+
 """
-🎨 Interface Streamlit — Football Scout Agent
-Lance avec : streamlit run app.py
+========================================================
+Football Scout Agent — Interface Utilisateur
+========================================================
+Rôle      : Interface web interactive basée sur
+            Streamlit pour le Football Scout Agent.
+Fonctions :
+    - Chat en langage naturel avec l'agent IA
+    - Sidebar avec exemples de questions
+    - Historique de la conversation
+    - Bouton de réinitialisation de session
+Lancement : streamlit run app.py
+========================================================
 """
 
 import sys
