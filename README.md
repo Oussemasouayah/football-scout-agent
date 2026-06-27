@@ -20,3 +20,11 @@ Créer un fichier .env à la racine avec vos clés API :
 ## Lancement
 
     streamlit run app.py
+
+## Équipe
+
+- Oussema Souayah — Agent LangChain & Orchestration
+- Membre 2 — Tools externes (API Football)  
+- Membre 3 — Tools internes (Base de données)
+- Membre 4 — Interface Streamlit
+- Membre 5 — Tests & Documentation
