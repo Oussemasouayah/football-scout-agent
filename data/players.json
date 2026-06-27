@@ -149,4 +149,36 @@
     "style": ["domination aérienne", "leadership", "relance", "lecture du jeu"],
     "description": "Défenseur central dominant. Capitaine de Liverpool. Référence défensive mondiale."
   }
+  ,
+  {
+    "name": "Kevin De Bruyne",
+    "club": "Manchester City",
+    "nationality": "Belgique",
+    "position": "Milieu",
+    "age": 33,
+    "goals_this_season": 8,
+    "assists_this_season": 18,
+    "matches_played": 28,
+    "rating": 8.9,
+    "market_value_M": 60,
+    "foot": "droit",
+    "style": ["vision", "passes décisives", "frappe longue", "leadership"],
+    "description": "Meilleur passeur de Premier League. Vision de jeu exceptionnelle."
+  },
+  {
+    "name": "Pedri",
+    "club": "FC Barcelone",
+    "nationality": "Espagne",
+    "position": "Milieu",
+    "age": 22,
+    "goals_this_season": 10,
+    "assists_this_season": 12,
+    "matches_played": 30,
+    "rating": 8.7,
+    "market_value_M": 120,
+    "foot": "droit",
+    "style": ["dribble", "vision", "pressing", "technique"],
+    "description": "Milieu créatif du Barça. Technique et intelligence de jeu remarquables."
+  }
+
 ]
